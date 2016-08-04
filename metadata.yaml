@@ -1,0 +1,29 @@
+_repo: The-Son-of-My-Friend_4623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Uncle Herbert
+    - Arthur, Timothy Shay
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4623'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temperance -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Son of My Friend
+url: http://www.gutenberg.org/ebooks/4623
